@@ -6,7 +6,7 @@ import { TabBasicInfo } from './features/TabBasicInfo';
 import { TabTriggerConfig } from './features/TabTriggerConfig';
 import { TabActions } from './features/TabActions';
 import { TabReview } from './features/TabReview';
-import { useSyncExternalStore } from 'react';
+
 
 const tabs = [
   { id: 0, label: '1. Basic Info' },

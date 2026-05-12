@@ -1,5 +1,5 @@
 import { INITIAL_STATE } from './types';
-import type { FormState, WorkflowType, Priority } from './types';
+import type { FormState, Priority } from './types';
 
 export type Listener = () => void;
 export type Updater<T> = (prevState: T) => T;
