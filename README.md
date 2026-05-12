@@ -38,6 +38,8 @@ Validation is completely decoupled from rendering. Rules are defined in `rules.t
 
 ## Running the Application
 
+**Prerequisites**: Node.js is required to run this application.
+
 1. Install dependencies:
    ```bash
    npm install
